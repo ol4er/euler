@@ -1,3 +1,5 @@
 touch *.ext 
 
 makes a new thing in terminal. I’d forgotten, and decided to practice.
+
+cat touch.txt
